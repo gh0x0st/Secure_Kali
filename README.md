@@ -5,6 +5,12 @@ While the admins of these labs will do their own due diligence in making sure th
 
 Before you jump into these labs, you should add a few levels of protection on your Kali Linux machine. With some being around awareness and some are technical. Essentially, you're creating a security policy for yourself.
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 ## Objectives
 When you define a security policy, you need to ask yourself what are you trying to protect what are you trying to protect from? In this case here, I'll show you a few steps you can take to help protect your Kali Linux machine from being compromised from common exposures that you may be introducing yourself.
 
